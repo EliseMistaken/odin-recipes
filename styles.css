@@ -1,0 +1,19 @@
+h1 {
+    background-color: greenyellow;
+    width: 480px;
+    text-align: center;
+}
+
+ul {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+
+}
+
+.finished {
+    width: 480px;
+    height: auto;
+
+}
+
